@@ -1,0 +1,740 @@
+1
+00:00:00,060 --> 00:00:04,110
+what's the hardest thing about doing
+
+2
+00:00:01,770 --> 00:00:06,240
+business today for one thing your
+
+3
+00:00:04,110 --> 00:00:07,529
+customers have so many more options with
+
+4
+00:00:06,240 --> 00:00:09,210
+the touch of a button they can choose to
+
+5
+00:00:07,529 --> 00:00:10,710
+go somewhere else they're also very
+
+6
+00:00:09,210 --> 00:00:12,150
+knowledgeable sixty percent of the
+
+7
+00:00:10,710 --> 00:00:14,700
+buying decision is already made before
+
+8
+00:00:12,150 --> 00:00:16,529
+they even come approach you what that
+
+9
+00:00:14,700 --> 00:00:18,210
+means is the way you understand and
+
+10
+00:00:16,529 --> 00:00:20,430
+manage your customer experience is gonna
+
+11
+00:00:18,210 --> 00:00:22,410
+be key to whether you win or lose a
+
+12
+00:00:20,430 --> 00:00:24,510
+business unfortunately as our
+
+13
+00:00:22,410 --> 00:00:26,580
+organizations grow larger the farther
+
+14
+00:00:24,510 --> 00:00:28,740
+removed we are from our customers hi
+
+15
+00:00:26,580 --> 00:00:30,929
+everyone I'm Chris Romani co-founder and
+
+16
+00:00:28,740 --> 00:00:32,969
+CEO at Firefly's AI and we're tackling
+
+17
+00:00:30,929 --> 00:00:34,920
+this specific problem with our customer
+
+18
+00:00:32,969 --> 00:00:36,600
+intelligence platform which will align
+
+19
+00:00:34,920 --> 00:00:38,370
+each and every person inside your
+
+20
+00:00:36,600 --> 00:00:40,649
+organization around the voice of the
+
+21
+00:00:38,370 --> 00:00:43,680
+customer and we do this by unlocking
+
+22
+00:00:40,649 --> 00:00:45,510
+your customer conversations 92% of all
+
+23
+00:00:43,680 --> 00:00:47,129
+b2b customer interactions happen through
+
+24
+00:00:45,510 --> 00:00:49,050
+the phone today what that means it's an
+
+25
+00:00:47,129 --> 00:00:50,879
+opportunity for you to understand what
+
+26
+00:00:49,050 --> 00:00:52,710
+your customers want why they need it and
+
+27
+00:00:50,879 --> 00:00:54,989
+how to best deliver that experience so
+
+28
+00:00:52,710 --> 00:00:56,670
+there is a direct correlation from these
+
+29
+00:00:54,989 --> 00:00:58,770
+conversations to your ability to close
+
+30
+00:00:56,670 --> 00:01:00,780
+deals drive demand gen build the right
+
+31
+00:00:58,770 --> 00:01:02,340
+product and ultimately generate revenue
+
+32
+00:01:00,780 --> 00:01:03,930
+for your org this is such a core
+
+33
+00:01:02,340 --> 00:01:05,640
+function so we wanted to know what
+
+34
+00:01:03,930 --> 00:01:06,630
+existing companies were doing today we
+
+35
+00:01:05,640 --> 00:01:08,820
+partnered with a group at Harvard
+
+36
+00:01:06,630 --> 00:01:10,799
+Business School and ran a survey and we
+
+37
+00:01:08,820 --> 00:01:12,479
+were surprised to see that 68% of these
+
+38
+00:01:10,799 --> 00:01:14,340
+companies didn't have any processes in
+
+39
+00:01:12,479 --> 00:01:17,759
+place to track customer insights from
+
+40
+00:01:14,340 --> 00:01:19,229
+their calls 68% and yet many of them
+
+41
+00:01:17,759 --> 00:01:21,750
+said most of the critical information
+
+42
+00:01:19,229 --> 00:01:23,310
+needed to navigate the entire customer
+
+43
+00:01:21,750 --> 00:01:25,380
+journey were buried inside these
+
+44
+00:01:23,310 --> 00:01:27,600
+conversations but only a fraction of it
+
+45
+00:01:25,380 --> 00:01:29,939
+was being brought back into their ERP
+
+46
+00:01:27,600 --> 00:01:31,829
+systems and CRM so the first thing we
+
+47
+00:01:29,939 --> 00:01:34,140
+believed in building out this customer
+
+48
+00:01:31,829 --> 00:01:36,299
+intelligence platform was by up leveling
+
+49
+00:01:34,140 --> 00:01:38,670
+reps and solving this problem right here
+
+50
+00:01:36,299 --> 00:01:40,770
+so the first product we released is an
+
+51
+00:01:38,670 --> 00:01:42,229
+AI assistant named Fred I'll join your
+
+52
+00:01:40,770 --> 00:01:44,070
+sales and customer facing calls and
+
+53
+00:01:42,229 --> 00:01:46,350
+automatically generate meeting notes
+
+54
+00:01:44,070 --> 00:01:48,930
+we're able to do that because of the
+
+55
+00:01:46,350 --> 00:01:50,490
+custom data models we've built and then
+
+56
+00:01:48,930 --> 00:01:52,200
+augmented neural network that gets
+
+57
+00:01:50,490 --> 00:01:54,479
+smarter based on the semantics of the
+
+58
+00:01:52,200 --> 00:01:57,030
+conversations that are happening but for
+
+59
+00:01:54,479 --> 00:01:58,710
+the reps the magic is they're able to
+
+60
+00:01:57,030 --> 00:02:00,840
+get bullet point notes automatically
+
+61
+00:01:58,710 --> 00:02:02,939
+route it in to their CRM and this
+
+62
+00:02:00,840 --> 00:02:04,860
+completely eliminates the whole data
+
+63
+00:02:02,939 --> 00:02:06,810
+entry hassle lets them focus on more
+
+64
+00:02:04,860 --> 00:02:09,060
+deals and spend more time with customers
+
+65
+00:02:06,810 --> 00:02:11,580
+helping solve their issues by choosing
+
+66
+00:02:09,060 --> 00:02:13,110
+this go to market approach where we're
+
+67
+00:02:11,580 --> 00:02:14,430
+providing a solution that
+
+68
+00:02:13,110 --> 00:02:16,380
+reps can directly plug into their
+
+69
+00:02:14,430 --> 00:02:18,750
+workflow without anyone else's help
+
+70
+00:02:16,380 --> 00:02:21,750
+we've been able to spread rapidly at the
+
+71
+00:02:18,750 --> 00:02:24,090
+grassroots to give you an example we had
+
+72
+00:02:21,750 --> 00:02:26,340
+one person at a company in Atlanta
+
+73
+00:02:24,090 --> 00:02:28,770
+Georgia using fireflies within two weeks
+
+74
+00:02:26,340 --> 00:02:30,720
+we had 29 people at that company using
+
+75
+00:02:28,770 --> 00:02:32,610
+fireflies and eight other companies were
+
+76
+00:02:30,720 --> 00:02:34,140
+on Atlanta we're using it now if you
+
+77
+00:02:32,610 --> 00:02:35,250
+fast forward two months we triple the
+
+78
+00:02:34,140 --> 00:02:37,500
+number of people in Atlanta that we're
+
+79
+00:02:35,250 --> 00:02:38,730
+using fireflies and this core group of
+
+80
+00:02:37,500 --> 00:02:40,560
+users were now sharing it with their
+
+81
+00:02:38,730 --> 00:02:43,140
+friends in New York Boston Texas
+
+82
+00:02:40,560 --> 00:02:45,780
+Washington and back to California we
+
+83
+00:02:43,140 --> 00:02:48,060
+were spreading like a consumer company
+
+84
+00:02:45,780 --> 00:02:49,440
+and 82% of our new customers come
+
+85
+00:02:48,060 --> 00:02:52,170
+through referrals from existing
+
+86
+00:02:49,440 --> 00:02:54,030
+customers this is also wonderful for our
+
+87
+00:02:52,170 --> 00:02:56,220
+larger enterprise business strategy
+
+88
+00:02:54,030 --> 00:02:58,320
+where once fireflies spreads inside an
+
+89
+00:02:56,220 --> 00:03:00,959
+organization we can go to management and
+
+90
+00:02:58,320 --> 00:03:03,720
+tell them look fireflies is now your
+
+91
+00:03:00,959 --> 00:03:05,400
+eyes and ears in front of your customers
+
+92
+00:03:03,720 --> 00:03:07,350
+and it's able to sift through millions
+
+93
+00:03:05,400 --> 00:03:10,080
+of conversations let us bring those
+
+94
+00:03:07,350 --> 00:03:12,110
+insights back to your organization with
+
+95
+00:03:10,080 --> 00:03:14,459
+our customer intelligence platform and
+
+96
+00:03:12,110 --> 00:03:15,540
+for example you'll have the sales team
+
+97
+00:03:14,459 --> 00:03:17,850
+that's having these great conversations
+
+98
+00:03:15,540 --> 00:03:20,220
+with prospects that's really converting
+
+99
+00:03:17,850 --> 00:03:22,110
+and now with fireflies you can send
+
+100
+00:03:20,220 --> 00:03:23,400
+those exact insights back to marketing
+
+101
+00:03:22,110 --> 00:03:25,410
+so that they can create better
+
+102
+00:03:23,400 --> 00:03:27,720
+collateral and align their campaigns
+
+103
+00:03:25,410 --> 00:03:29,519
+around these sort of conversations
+
+104
+00:03:27,720 --> 00:03:31,650
+customer success might be getting
+
+105
+00:03:29,519 --> 00:03:34,290
+inundated with feature requests and
+
+106
+00:03:31,650 --> 00:03:35,660
+complaints the product team is siloed
+
+107
+00:03:34,290 --> 00:03:38,430
+off a bit and they're building their own
+
+108
+00:03:35,660 --> 00:03:40,260
+roadmap so now with this sort of
+
+109
+00:03:38,430 --> 00:03:41,850
+insights being sent straight to product
+
+110
+00:03:40,260 --> 00:03:43,290
+the engineering roadmap is going to be
+
+111
+00:03:41,850 --> 00:03:46,019
+better aligned with business objectives
+
+112
+00:03:43,290 --> 00:03:47,340
+we even have this unique instance where
+
+113
+00:03:46,019 --> 00:03:49,890
+we were working with a customer and
+
+114
+00:03:47,340 --> 00:03:51,600
+their legal team wanted to know when
+
+115
+00:03:49,890 --> 00:03:53,130
+topics around GDP are what were being
+
+116
+00:03:51,600 --> 00:03:55,739
+discussed they were releasing a new
+
+117
+00:03:53,130 --> 00:03:57,150
+product and a lot of their customers had
+
+118
+00:03:55,739 --> 00:03:59,610
+issues around this new law that was
+
+119
+00:03:57,150 --> 00:04:01,709
+coming out in Europe around gdpr and so
+
+120
+00:03:59,610 --> 00:04:03,060
+the legal team which is usually so far
+
+121
+00:04:01,709 --> 00:04:05,730
+removed from the customers with a touch
+
+122
+00:04:03,060 --> 00:04:07,620
+of a button is able to connect and is
+
+123
+00:04:05,730 --> 00:04:09,780
+able to understand get contextual
+
+124
+00:04:07,620 --> 00:04:10,709
+insights and help make sure that that
+
+125
+00:04:09,780 --> 00:04:12,959
+customer experience
+
+126
+00:04:10,709 --> 00:04:14,489
+is taken care of we're empowering every
+
+127
+00:04:12,959 --> 00:04:16,979
+person in the organization to put the
+
+128
+00:04:14,489 --> 00:04:19,769
+customer first and providing them the
+
+129
+00:04:16,979 --> 00:04:21,630
+opportunity to be around the voice of
+
+130
+00:04:19,769 --> 00:04:24,240
+the customer this is something that's
+
+131
+00:04:21,630 --> 00:04:25,770
+really deep for both my co-founder Sam
+
+132
+00:04:24,240 --> 00:04:26,790
+and myself because we've worked at
+
+133
+00:04:25,770 --> 00:04:28,890
+larger organizations
+
+134
+00:04:26,790 --> 00:04:31,080
+how large this gap is and by even
+
+135
+00:04:28,890 --> 00:04:33,690
+augmenting it a little bit we approve
+
+136
+00:04:31,080 --> 00:04:35,220
+sales execution and drive business
+
+137
+00:04:33,690 --> 00:04:37,350
+functions a whole lot better and this
+
+138
+00:04:35,220 --> 00:04:40,050
+sort of technology does no longer have
+
+139
+00:04:37,350 --> 00:04:41,610
+to remain just in places like MIT
+
+140
+00:04:40,050 --> 00:04:44,100
+research labs where we're coming from
+
+141
+00:04:41,610 --> 00:04:45,660
+right this with the right sort of talent
+
+142
+00:04:44,100 --> 00:04:47,930
+machine learning expertise and domain
+
+143
+00:04:45,660 --> 00:04:50,190
+focus we can build tangible business
+
+144
+00:04:47,930 --> 00:04:52,020
+applications we have a unique
+
+145
+00:04:50,190 --> 00:04:53,370
+opportunity to become category creators
+
+146
+00:04:52,020 --> 00:04:55,050
+and what some would call a relatively
+
+147
+00:04:53,370 --> 00:04:56,640
+new space that's blooming customer
+
+148
+00:04:55,050 --> 00:04:58,290
+experience management it's an eight
+
+149
+00:04:56,640 --> 00:05:00,540
+billion dollar market but what's most
+
+150
+00:04:58,290 --> 00:05:02,310
+interesting for me is it's growing 17%
+
+151
+00:05:00,540 --> 00:05:04,920
+year over year for nearly the past
+
+152
+00:05:02,310 --> 00:05:06,870
+decade it's no longer about sales or
+
+153
+00:05:04,920 --> 00:05:10,200
+just marketing or customer success it's
+
+154
+00:05:06,870 --> 00:05:11,130
+about customer experience we definitely
+
+155
+00:05:10,200 --> 00:05:12,870
+have our work cut out for ourselves
+
+156
+00:05:11,130 --> 00:05:14,670
+right now we're focusing on the US
+
+157
+00:05:12,870 --> 00:05:17,790
+market english-speaking market
+
+158
+00:05:14,670 --> 00:05:19,530
+specifically high tech b2b SAS but we
+
+159
+00:05:17,790 --> 00:05:22,440
+have our eye set in the next two years
+
+160
+00:05:19,530 --> 00:05:24,810
+on how we can leverage this in larger
+
+161
+00:05:22,440 --> 00:05:26,280
+industries - like finance healthcare and
+
+162
+00:05:24,810 --> 00:05:28,830
+law enforcement because in many of these
+
+163
+00:05:26,280 --> 00:05:30,750
+industries recording conversations is
+
+164
+00:05:28,830 --> 00:05:31,950
+required by law but no one is unlocking
+
+165
+00:05:30,750 --> 00:05:33,750
+any of the potential from those
+
+166
+00:05:31,950 --> 00:05:35,160
+conversations afterwards we think we can
+
+167
+00:05:33,750 --> 00:05:38,100
+go in there build custom models and
+
+168
+00:05:35,160 --> 00:05:39,660
+tackle that for them we're also thinking
+
+169
+00:05:38,100 --> 00:05:40,860
+about our infrastructure from the way we
+
+170
+00:05:39,660 --> 00:05:42,720
+build our neural network and deep
+
+171
+00:05:40,860 --> 00:05:44,670
+learning stack today to where we want to
+
+172
+00:05:42,720 --> 00:05:45,750
+be 18 months 24 months or now it's no
+
+173
+00:05:44,670 --> 00:05:47,970
+longer just about English anymore
+
+174
+00:05:45,750 --> 00:05:50,040
+there's a global opportunity out there
+
+175
+00:05:47,970 --> 00:05:51,720
+and we want to build ourselves up so
+
+176
+00:05:50,040 --> 00:05:54,210
+that we can potentially partner with
+
+177
+00:05:51,720 --> 00:05:56,010
+providers for example Baidu and then go
+
+178
+00:05:54,210 --> 00:05:57,390
+along to the Chinese market that would
+
+179
+00:05:56,010 --> 00:06:00,210
+be massive for us in terms of how we
+
+180
+00:05:57,390 --> 00:06:03,240
+execute ultimately we want to become a
+
+181
+00:06:00,210 --> 00:06:04,890
+global company and help our customers
+
+182
+00:06:03,240 --> 00:06:06,630
+build the world's most customer centric
+
+183
+00:06:04,890 --> 00:06:09,140
+companies for their customers using
+
+184
+00:06:06,630 --> 00:06:09,140
+Firefox
+
+185
+00:06:15,000 --> 00:06:17,060
+you
+
