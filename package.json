@@ -1,16 +1,29 @@
-
 {
-     "name""name"::  "node-example""node-example",,
-     "version""version"::  "1.0.0""1.0.0",,
-     "description""description"::  "This example is so cool.""This example is so co ,
-  "main": "web.js",
+  "name": "Player",
+  "version": "1.0",
+  "description": "Player",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnuragSridhar/FirefliesPlayer/tree/master/Player"
   },
   "keywords": [
-    "example",
-    "heroku"
+    "node",
+    "heroku",
+    "express"
   ],
-  "author": "jane-doe",
+  "author": "Anurag Sridhar",
+  "contributors": [
+    "Anurag Sridhar <anurag.sridhar23@gmail.com>"
+  ],
   "license": "MIT"
 }
