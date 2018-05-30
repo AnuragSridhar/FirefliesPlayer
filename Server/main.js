@@ -2,7 +2,7 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
-const cloudSpeech = require('@google-cloud/speech');
+//const cloudSpeech = require('@google-cloud/speech');
 const ffmpeg = require('ffmpeg');
 
 const client = new cloudSpeech.SpeechClient();
