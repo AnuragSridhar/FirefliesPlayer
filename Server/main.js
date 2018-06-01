@@ -2,6 +2,7 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
+const formidable = require('formidable');
 
 app.get('/getnames', function(req, res) {
 
@@ -20,6 +21,25 @@ app.get('/getnames', function(req, res) {
   res.end(JSON.stringify(filenames));
 });
 
+app.post('/uploadfile', function(req, res) {
+  var form = new formidable.IncomingForm();
+
+  form.parse(req, function (err, fields, files) {
+
+    var prev = files.filetoupload.path;
+    var path = 'test_files/audio' + files.filetoupload.name;
+
+    fs.rename(prev, path function(err) {
+
+      if (err) {
+        throw err;
+      }
+      res.write('File Upload - Success');
+      res.end();
+    });
+  });
+});
+
 app.get('/audiostream/:filename', function(req, res) {
 
     filePath = 'test_files/audio/' + req.params.filename,
@@ -35,6 +55,8 @@ app.get('/audiostream/:filename', function(req, res) {
 
     fs.createReadStream(filePath).pipe(res);
 });
+
+
 
 
 app.get('/transcript/:filename/:keyword', function(req, res) {
@@ -72,7 +94,7 @@ function findWord(path, word) {
     var file = fs.readFileSync(path, 'utf8');
     lines = file.split('\n');
 
-    for(var i = 0; i < lines.length - 1; i++) {
+    for (var i = 0; i < lines.length - 1; i++) {
       var line = lines[i].toLowerCase();
       var trimmed = line.trim();
       var str = ' ' + trimmed + ' ';
