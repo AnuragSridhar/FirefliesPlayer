@@ -2,7 +2,10 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
+const fileUpload = require('express-fileupload');
 const formidable = require('formidable');
+const path = require('path');
+
 
 app.get('/getnames', function(req, res) {
 
@@ -21,24 +24,49 @@ app.get('/getnames', function(req, res) {
   res.end(JSON.stringify(filenames));
 });
 
-app.post('/uploadfile', function(req, res) {
-  var form = new formidable.IncomingForm();
+app.use(fileUpload());
+// default options
 
-  form.parse(req, function (err, fields, files) {
+app.post('/upload', function(req, res) {
+  if (!req.files)
+    return res.status(400).send('No files were uploaded.');
 
-    var prev = files.filetoupload.path;
-    var path = 'test_files/audio' + files.filetoupload.name;
+  // The name of the input field (i.e. "sampleFile") is used to retrieve the uploaded file
+  let sampleFile = req.files.sampleFile;
+console.log('got file '+ sampleFile.name);
+  // Use the mv() method to place the file somewhere on your server
+  sampleFile.mv('test_files/audio/'+sampleFile.name, function(err) {
+    if (err)
+      return res.status(500).send(err);
 
-    fs.rename(prev, path function(err) {
-
-      if (err) {
-        throw err;
-      }
-      res.write('File Upload - Success');
-      res.end();
-    });
+    res.redirect('/');
   });
 });
+
+
+/*
+app.post('/upload', function(req, res) {
+  console.log('uploadbegin' + req.body);
+  if (!req.files)
+    console.log('!req.files');
+    return res.status(400).send('No files were uploaded.');
+
+
+  let sampleFile = req.files.sampleFile;
+console.log('got file name' + req.files.sampleFile.name);
+
+  sampleFile.mv('test_files/audio/' + req.files.sampleFile.name, function(err) {
+    console.log('uploadprogress');
+    if (err)
+      return res.status(500).send(err);
+
+    //res.send('File uploaded!');
+    res.redirect('/uploadhtml');
+  });
+
+});
+*/
+
 
 app.get('/audiostream/:filename', function(req, res) {
 
@@ -57,7 +85,13 @@ app.get('/audiostream/:filename', function(req, res) {
 });
 
 
+app.get('/uploadhtml', function(req, res) {
+    res.sendFile(path.join(__dirname + '/upload.html'));
+});
 
+app.get('/', function(req, res) {
+    res.sendFile(path.join(__dirname + '/index.html'));
+});
 
 app.get('/transcript/:filename/:keyword', function(req, res) {
     console.log('transcript request');
